@@ -12,6 +12,7 @@
     - MyBatis Framework
     - MySQL Driver
     - Apache HttpClient (https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient, 직접 추가)
+
 ![png_1](img.png)
 
 - 주의 사항
